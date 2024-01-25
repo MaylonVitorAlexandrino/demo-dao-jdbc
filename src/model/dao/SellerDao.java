@@ -3,7 +3,6 @@ package model.dao;
 import java.util.List;
 
 import models.entities.Seller;
-import models.entities.Seller;
 
 public interface SellerDao {
 	
